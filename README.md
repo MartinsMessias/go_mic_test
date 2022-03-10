@@ -1,8 +1,13 @@
 # mic_echo
-_____
+
+---
+
 Test microphone if you are using pulseaudio on linux
 
 Desktop aplication | Go + Fyne
+
+<!-- Show image -->
+<img src="test.gif" alt="app" width="400" height="500">
 
 ## Pre-requisites
 
